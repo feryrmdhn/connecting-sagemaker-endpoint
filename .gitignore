@@ -1,0 +1,17 @@
+__pycache__/
+
+bin/
+build/
+dist/
+include/
+lib/
+
+.env
+env/
+venv/
+*.pyc
+
+*.log
+tmp/
+
+.DS_Store
